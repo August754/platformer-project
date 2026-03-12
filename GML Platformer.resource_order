@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_invisible_wall","order":1,"path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},
+    {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_invisible_wall","order":1,"path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",},
   ],
 }
