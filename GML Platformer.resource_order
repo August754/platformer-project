@@ -3,6 +3,12 @@
   "ResourceOrderSettings":[
     {"name":"obj_invisible_wall","order":1,"path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},
     {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"spr_clouds","order":7,"path":"sprites/spr_clouds/spr_clouds.yy",},
+    {"name":"spr_grain","order":8,"path":"sprites/spr_grain/spr_grain.yy",},
     {"name":"spr_invisible_wall","order":1,"path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",},
+    {"name":"spr_player_jump","order":5,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"spr_player_walk","order":4,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
+    {"name":"spr_player","order":3,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_wall","order":6,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
