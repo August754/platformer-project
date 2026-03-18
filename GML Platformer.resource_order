@@ -9,6 +9,6 @@
     {"name":"spr_player_jump","order":5,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"spr_player_walk","order":4,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_player","order":3,"path":"sprites/spr_player/spr_player.yy",},
-    {"name":"spr_wall","order":6,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_wall","order":9,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
