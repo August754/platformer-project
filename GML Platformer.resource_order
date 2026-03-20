@@ -2,6 +2,8 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_invisible_wall","order":1,"path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},
+    {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_clouds","order":7,"path":"sprites/spr_clouds/spr_clouds.yy",},
     {"name":"spr_grain","order":8,"path":"sprites/spr_grain/spr_grain.yy",},
@@ -9,6 +11,7 @@
     {"name":"spr_player_jump","order":5,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"spr_player_walk","order":4,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_player","order":3,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_portal","order":10,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"spr_wall","order":9,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
