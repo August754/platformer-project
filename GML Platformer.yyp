@@ -34,11 +34,13 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"obj_damage_block","path":"objects/obj_damage_block/obj_damage_block.yy",},},
     {"id":{"name":"obj_invisible_wall","path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_clouds","path":"sprites/spr_clouds/spr_clouds.yy",},},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},},
@@ -55,6 +57,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
