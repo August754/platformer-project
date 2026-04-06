@@ -69,3 +69,6 @@ else
 }
 if (hsp!=0) image_xscale = sign(hsp);
 if(place_meeting(x,y,obj_damage_block))
+{
+	room_restart()
+}

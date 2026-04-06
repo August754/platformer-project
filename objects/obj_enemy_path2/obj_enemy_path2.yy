@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_damage_block",
+  "%Name":"obj_enemy_path2",
   "eventList":[],
   "managed":true,
-  "name":"obj_damage_block",
+  "name":"obj_enemy_path2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_damage_block",
-    "path":"sprites/spr_damage_block/spr_damage_block.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
