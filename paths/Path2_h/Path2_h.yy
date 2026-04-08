@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"Path2_h",
+  "closed":false,
+  "kind":0,
+  "name":"Path2_h",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":1088.0,"y":704.0,},
+    {"speed":100.0,"x":1088.0,"y":64.0,},
+    {"speed":100.0,"x":1344.0,"y":64.0,},
+    {"speed":100.0,"x":1344.0,"y":704.0,},
+    {"speed":100.0,"x":1600.0,"y":704.0,},
+    {"speed":100.0,"x":1600.0,"y":64.0,},
+    {"speed":100.0,"x":1856.0,"y":64.0,},
+    {"speed":100.0,"x":1856.0,"y":704.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
